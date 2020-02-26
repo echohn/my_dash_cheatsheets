@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 cheatsheet do
   title 'macos'
   docset_file_name 'macos'

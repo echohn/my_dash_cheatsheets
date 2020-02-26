@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 cheatsheet do
   title 'iTerm2'
   docset_file_name 'iTerm2'

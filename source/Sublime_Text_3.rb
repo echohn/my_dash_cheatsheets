@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 cheatsheet do
   title 'Sublime Text 3'
   docset_file_name 'Sublime_Text_3'
@@ -122,7 +124,7 @@ cheatsheet do
 
     entry do
       name '自动对齐(Alignment)'
-      command 'OPT + CMD + A'
+      command 'CMD + K, CMD + K'
     end
     entry do
       name '自动对齐(Json)'
